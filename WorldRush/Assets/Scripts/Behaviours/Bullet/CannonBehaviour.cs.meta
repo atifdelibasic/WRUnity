@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9462554cca7a02a4b98e3a990609ef89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cannonBullet: {instanceID: 0}
+  - spawningPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
