@@ -10,6 +10,6 @@ Check out images folder.
 - two unique bosses (ninja and reaper)
 - collectables (coins, health, shield, weapon upgrade)
 - moving platforms 
-- moving and standing enemies (bombs and turtels)
+- moving and standing enemies (bombs and turtles)
 
 Models where downloaded from Unity Asset Store
