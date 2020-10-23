@@ -11,5 +11,6 @@ Check out images folder.
 - collectables (coins, health, shield, weapon upgrade)
 - moving platforms 
 - moving and standing enemies (bombs and turtles)
+
 All models used were downloaded from Unity Asset Store
  
